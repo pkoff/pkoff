@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Accepting any advices of how to improve as a developer<br>💬 Just a python dev coding various random things<br>⚡ 16 year old dev
+🤝 Accepting any advices of how to improve as a developer<br><br>⚡ 16 year old dev
 
 
 ## 🌐 Socials:
