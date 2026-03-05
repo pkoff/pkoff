@@ -6,7 +6,9 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pkoff) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pkoff2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pkoff2@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GameMaker](https://camo.githubusercontent.com/d6d7c19fac04420f1d89a5b4cbd2d2cbe90e58a3476879a8e2f64a6826f5fbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47616d654d616b65722d3342303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d67616d656d616b6572266c6f676f436f6c6f723d7768697465)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GameMaker]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+(https://camo.githubusercontent.com/d6d7c19fac04420f1d89a5b4cbd2d2cbe90e58a3476879a8e2f64a6826f5fbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47616d654d616b65722d3342303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d67616d656d616b6572266c6f676f436f6c6f723d7768697465)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pkoff&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pkoff&theme=dark&hide_border=true)<br/>
