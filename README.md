@@ -77,6 +77,28 @@ class pkoff:
 
 <div align="center">
 
+## `> find . -name "contact*"`
+
+<br/>
+
+<a href="https://reddit.com/user/pkoff">
+  <img src="https://img.shields.io/badge/u%2Fpkoff-Reddit-1c2333?style=for-the-badge&logo=reddit&logoColor=FF4500"/>
+</a>
+&nbsp;
+<a href="https://youtube.com/@pkoff2">
+  <img src="https://img.shields.io/badge/@pkoff2-YouTube-1c2333?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+</a>
+&nbsp;
+<a href="mailto:pkoff2@gmail.com">
+  <img src="https://img.shields.io/badge/pkoff2%40gmail.com-Email-1c2333?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ## `> github_stats --user pkoff`
 
 <br/>
@@ -97,28 +119,6 @@ class pkoff:
 ## `> activity_log`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pkoff&hide_border=true&bg_color=0e1117&color=8aa0c8&line=6b8cba&point=dce6f5&area=true&area_color=2d3f5e" />
-
-</div>
-
----
-
-<div align="center">
-
-## `> find . -name "contact*"`
-
-<br/>
-
-<a href="https://reddit.com/user/pkoff">
-  <img src="https://img.shields.io/badge/u%2Fpkoff-Reddit-1c2333?style=for-the-badge&logo=reddit&logoColor=FF4500"/>
-</a>
-&nbsp;
-<a href="https://youtube.com/@pkoff2">
-  <img src="https://img.shields.io/badge/@pkoff2-YouTube-1c2333?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
-</a>
-&nbsp;
-<a href="mailto:pkoff2@gmail.com">
-  <img src="https://img.shields.io/badge/pkoff2%40gmail.com-Email-1c2333?style=for-the-badge&logo=gmail&logoColor=D14836"/>
-</a>
 
 </div>
 
