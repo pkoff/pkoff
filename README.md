@@ -39,7 +39,7 @@ goal: become a better developer every day
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="mailto:pkoff2@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pkoff2@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -91,7 +91,7 @@ goal: become a better developer every day
 
 # 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=pkoff&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pkoff&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 ---
 
