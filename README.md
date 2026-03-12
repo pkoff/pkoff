@@ -89,20 +89,6 @@ goal: become a better developer every day
 
 ---
 
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=pkoff&theme=tokyonight&no-frame=true&margin-w=10"/>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/pkoff/pkoff/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 🧠 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
